@@ -7,4 +7,6 @@
   width: 920px;
   flex-wrap: wrap;
   gap: 0 100px;
+  margin:0;
+  padding:0;
 }

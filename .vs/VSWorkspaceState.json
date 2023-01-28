@@ -1,16 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\blocks",
-    "\\blocks\\footer\\__column",
-    "\\blocks\\footer\\__columns",
-    "\\blocks\\footer\\__column\\_content_copyright",
-    "\\blocks\\footer\\__column\\_content_info",
-    "\\blocks\\footer\\__column\\_content_social",
-    "\\blocks\\page",
-    "\\styles",
-    "\\vendor"
+    "\\pages"
   ],
-  "SelectedNode": "\\README.md",
+  "SelectedNode": "\\index.html",
   "PreviewInSolutionExplorer": false
 }

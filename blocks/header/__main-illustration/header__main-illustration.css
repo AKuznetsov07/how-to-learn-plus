@@ -6,4 +6,6 @@
     z-index:1;
     bottom:0px;
     right:0px;
+    object-fit:contain;
+    object-position:right bottom;
 }
