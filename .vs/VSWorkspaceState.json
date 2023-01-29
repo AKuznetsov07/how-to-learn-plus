@@ -1,8 +1,15 @@
 {
   "ExpandedNodes": [
     "",
+    "\\blocks",
+    "\\blocks\\table",
+    "\\blocks\\table\\__cell",
+    "\\blocks\\two-columns",
+    "\\blocks\\video",
+    "\\blocks\\video\\__iframe",
+    "\\blocks\\video\\__iframes",
+    "\\fonts",
     "\\pages"
   ],
-  "SelectedNode": "\\index.html",
   "PreviewInSolutionExplorer": false
 }

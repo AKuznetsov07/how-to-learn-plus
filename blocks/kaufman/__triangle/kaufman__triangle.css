@@ -4,7 +4,7 @@
   position: absolute;
   top: 0;
   right: -210px;
-  object-fit: fill;
+  background-size:contain;
   z-index: -1;
   background-image: url("../../../images/kaufman-triangle.svg");
 }
